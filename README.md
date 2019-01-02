@@ -19,3 +19,4 @@ It may appear that there is a need for using a proper set of algorithms dependin
 ## Mid-Line Calculations
 
 ![](images/mid_point.jpg)
+![](images/mid_point_eq.png)
